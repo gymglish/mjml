@@ -28,6 +28,7 @@ import Spacer from 'mjml-spacer'
 import Text from 'mjml-text'
 import Table from 'mjml-table'
 import Wrapper from 'mjml-wrapper'
+import A9Container from 'mjml-a9-container';
 import dependencies from './dependencies'
 
 const components = [
@@ -64,6 +65,8 @@ const components = [
   AccordionTitle,
   Carousel,
   CarouselImage,
+  
+  A9Container,
 ]
 
 const presetCore = {

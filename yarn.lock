@@ -6410,6 +6410,13 @@ mixin-deep@^1.2.0:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
 
+"mjml-a9-container@link:packages/mjml-a9-container":
+  version "4.15.3"
+  dependencies:
+    "@babel/runtime" "^7.23.9"
+    lodash "^4.17.21"
+    mjml-core "4.15.3"
+
 mkdirp-promise@^5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/mkdirp-promise/-/mkdirp-promise-5.0.1.tgz#e9b8f68e552c68a9c1713b84883f7a1dd039b8a1"

@@ -37,7 +37,7 @@ export default class MjSpacer extends BodyComponent {
         ${this.htmlAttributes({
           style: 'div',
         })}
-      >&#8202;</div>
+      >&#8202;AURE</div>
     `
   }
 }
