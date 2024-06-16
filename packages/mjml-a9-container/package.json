@@ -1,7 +1,7 @@
 {
-  "name": "mjml-a9-container",
+  "name": "@gymglish_npm/mjml-a9-container",
   "description": "mjml-a9container",
-  "version": "4.15.3",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mjmlio/mjml.git",
-    "directory": "packages/mjml-spacer"
+    "directory": "packages/mjml-a9-container"
   },
   "license": "MIT",
   "bugs": {
@@ -28,5 +28,9 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "rimraf": "^3.0.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "author": ""
 }

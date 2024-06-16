@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.23.9",
-    "mjml-a9-container": "https://github.com/gymglish/mjml/tree/a9/packages/mjml-a9-container",
+    "@gymglish_npm/mjml-a9-container": "0.0.1",
     "mjml-accordion": "4.15.3",
     "mjml-body": "4.15.3",
     "mjml-button": "4.15.3",
