@@ -1,7 +1,7 @@
 {
-  "name": "mjml-preset-core",
+  "name": "@gymglish_npm/mjml-preset-core",
   "description": "mjml-preset-core",
-  "version": "4.15.3",
+  "version": "4.15.3-a9-0.0.2",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -46,7 +46,8 @@
     "mjml-spacer": "4.15.3",
     "mjml-table": "4.15.3",
     "mjml-text": "4.15.3",
-    "mjml-wrapper": "4.15.3"
+    "mjml-wrapper": "4.15.3",
+    "@gymglish_npm/mjml-a9-container": "0.0.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",

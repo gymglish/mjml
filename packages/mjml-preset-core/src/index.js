@@ -28,7 +28,7 @@ import Spacer from 'mjml-spacer'
 import Text from 'mjml-text'
 import Table from 'mjml-table'
 import Wrapper from 'mjml-wrapper'
-import A9Container from 'mjml-a9-container'
+import A9Container from '@gymglish_npm/mjml-a9-container'
 import dependencies from './dependencies'
 
 const components = [
