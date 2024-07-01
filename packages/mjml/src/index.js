@@ -1,6 +1,6 @@
 import mjml2html, { components, assignComponents } from 'mjml-core'
 import { dependencies, assignDependencies } from 'mjml-validator'
-import presetCore from 'mjml-preset-core'
+import presetCore from '@gymglish_npm/mjml-preset-core'
 
 assignComponents(components, presetCore.components)
 assignDependencies(dependencies, presetCore.dependencies)
