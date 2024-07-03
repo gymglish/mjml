@@ -123,6 +123,13 @@ export default class MjButton extends BodyComponent {
   render() {
     const tag = this.getAttribute('href') ? 'a' : 'p'
 
+    const a9Style = this.getAttribute('a9-style')
+    if (a9Style === 'red') {
+      this.attributes['background-color'] = '#E90000'
+      this.attributes['inner-padding'] = '14px 40px 14px 40px'
+      this.attributes['font-size'] = '18px'
+    }
+
     return `
       <table
         ${this.htmlAttributes({
