@@ -1,7 +1,7 @@
 {
-  "name": "mjml-button",
+  "name": "@gymglish_npm/mjml-button",
   "description": "mjml-button",
-  "version": "4.15.3",
+  "version": "4.15.3-a9-0.0.1",
   "main": "lib/index.js",
   "files": [
     "lib"

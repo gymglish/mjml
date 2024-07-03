@@ -1,7 +1,7 @@
 {
   "name": "@gymglish_npm/mjml",
   "description": "MJML: the only framework that makes responsive-email easy",
-  "version": "4.15.3-a9-0.0.2",
+  "version": "4.15.3-a9-0.0.3",
   "main": "lib/index.js",
   "bin": {
     "mjml": "bin/mjml"
@@ -30,7 +30,7 @@
     "mjml-cli": "4.15.3",
     "mjml-core": "4.15.3",
     "mjml-migrate": "4.15.3",
-    "@gymglish_npm/mjml-preset-core": "4.15.3-a9-0.0.2",
+    "@gymglish_npm/mjml-preset-core": "4.15.3-a9-0.0.3",
     "mjml-validator": "4.15.3"
   },
   "devDependencies": {

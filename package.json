@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "build:watch": "lerna run build --parallel -- -- -w",
-    "build": "lerna run build --parallel --ignore mjml-browser",
+    "build": "lerna run build --parallel --ignore @gymglish_npm/mjml-browser",
     "build-browser": "cd packages/mjml-browser && yarn build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",

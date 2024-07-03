@@ -1,7 +1,7 @@
 {
   "name": "@gymglish_npm/mjml-a9-container",
   "description": "mjml-a9-container",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "files": [
     "lib"

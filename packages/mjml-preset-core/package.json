@@ -1,7 +1,7 @@
 {
   "name": "@gymglish_npm/mjml-preset-core",
   "description": "mjml-preset-core",
-  "version": "4.15.3-a9-0.0.2",
+  "version": "4.15.3-a9-0.0.3",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -24,7 +24,7 @@
     "@babel/runtime": "^7.23.9",
     "mjml-accordion": "4.15.3",
     "mjml-body": "4.15.3",
-    "mjml-button": "4.15.3",
+    "@gymglish_npm/mjml-button": "4.15.3-a9-0.0.1",
     "mjml-carousel": "4.15.3",
     "mjml-column": "4.15.3",
     "mjml-divider": "4.15.3",
@@ -47,7 +47,7 @@
     "mjml-table": "4.15.3",
     "mjml-text": "4.15.3",
     "mjml-wrapper": "4.15.3",
-    "@gymglish_npm/mjml-a9-container": "0.0.1"
+    "@gymglish_npm/mjml-a9-container": "0.0.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
