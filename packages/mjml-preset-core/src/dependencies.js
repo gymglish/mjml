@@ -5,13 +5,17 @@ export default {
   'mj-accordion-title': [],
   'mj-accordion-text': [],
   'mj-attributes': [/^.*^/],
-  'mj-body': ['mj-raw', 'mj-section', 'mj-wrapper', 'mj-hero', 'mj-a9-container'],
+  'mj-body': [
+    'mj-raw',
+    'mj-section',
+    'mj-wrapper',
+    'mj-hero',
+    'mj-a9-container',
+  ],
   'mj-button': [],
   'mj-carousel': ['mj-carousel-image'],
   'mj-carousel-image': [],
-  'mj-a9-container': [
-    'mj-column',
-  ],
+  'mj-a9-container': ['mj-column', 'mj-wrapper', 'mj-hero'],
   'mj-column': [
     'mj-accordion',
     'mj-button',
