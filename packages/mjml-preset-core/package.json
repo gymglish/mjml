@@ -1,7 +1,7 @@
 {
   "name": "@gymglish_npm/mjml-preset-core",
   "description": "mjml-preset-core",
-  "version": "4.15.3-a9-0.0.3",
+  "version": "4.15.3-a9-0.0.4",
   "main": "lib/index.js",
   "files": [
     "lib"
